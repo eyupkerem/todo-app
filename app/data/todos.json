@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Pay the credit"
+    },
+    {
+      "id": "2",
+      "text": "Finish the next course"
+    },
+    {
+      "id": "3",
+      "text": "New todo"
+    }
+  ]
+}
